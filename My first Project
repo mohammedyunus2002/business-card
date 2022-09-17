@@ -6,10 +6,6 @@
         <script src="index.js"></script>
     </head>
     <body>
-        <!-- 
-        Challenge 1:
-        Write the HTML for your personal website.
-        -->
         <img src = "https://pbs.twimg.com/profile_images/1527625716354797568/JtGb9c3Z_400x400.jpg">
         <h1>Assalamualaikum , My name is Mohammed Yunus</h1>
         <h2>Fun facts about me</h2>
